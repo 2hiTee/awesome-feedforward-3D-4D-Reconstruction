@@ -21,8 +21,8 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 
 | | List | Description |
 |:---:|:---|:---|
-| ✏️ | **[Awesome 3D/4D Editing](https://github.com/YOUR_USERNAME/awesome-3d-4d-editing)** | Papers on 3D and 4D scene/object editing |
-| 🎨 | **[Awesome 3D Generation](https://github.com/YOUR_USERNAME/awesome-3d-generation)** | Papers on 3D/4D content generation |
+| ✏️ | **[Awesome 3D/4D Editing](https://github.com/2hiTee/awesome-3D-4D-Editing)** | Papers on 3D and 4D scene/object editing |
+| 🎨 | **[Awesome 3D Generation](https://github.com/2hiTee/awesome-3D-Generation)** | Papers on 3D/4D content generation |
 
 </div>
 
