@@ -140,6 +140,7 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 12 | **LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory** | [📄](https://arxiv.org/pdf/2603.03269) |
 | 13 | **FrameVGGT: Frame Evidence Rolling Memory for Streaming VGGT** | [📄](https://arxiv.org/pdf/2603.07690) |
 | 14 | **Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training** | [📄](http://arxiv.org/abs/2604.07279) |
+| 15 | **Geometric Context Transformer for Streaming 3D Reconstruction** | [📄](https://arxiv.org/abs/2604.14141) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
