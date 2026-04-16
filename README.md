@@ -134,11 +134,12 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 6 | **WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool** | [📄](http://arxiv.org/abs/2509.05296) |
 | 7 | **TTT3R: 3D Reconstruction as Test-Time Training** | [📄](http://arxiv.org/abs/2509.26645) |
 | 8 | **InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams** | [📄](https://arxiv.org/pdf/2601.02281) |
-| 9 | **LongStream: Long-Sequence Streaming Autoregressive Visual Geometry** | [📄](http://arxiv.org/abs/2602.13172) |
-| 10 | **XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression** | [📄](http://arxiv.org/abs/2602.21780) |
-| 11 | **LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory** | [📄](https://arxiv.org/pdf/2603.03269) |
-| 12 | **FrameVGGT: Frame Evidence Rolling Memory for Streaming VGGT** | [📄](https://arxiv.org/pdf/2603.07690) |
-| 13 | **Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training** | [📄](http://arxiv.org/abs/2604.07279) |
+| 9 | **TTSA3R: Training-Free Temporal-Spatial Adaptive Persistent State for Streaming 3D Reconstruction** | [📄](https://arxiv.org/abs/2601.22615v2) |
+| 10 | **LongStream: Long-Sequence Streaming Autoregressive Visual Geometry** | [📄](http://arxiv.org/abs/2602.13172) |
+| 11 | **XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression** | [📄](http://arxiv.org/abs/2602.21780) |
+| 12 | **LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory** | [📄](https://arxiv.org/pdf/2603.03269) |
+| 13 | **FrameVGGT: Frame Evidence Rolling Memory for Streaming VGGT** | [📄](https://arxiv.org/pdf/2603.07690) |
+| 14 | **Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training** | [📄](http://arxiv.org/abs/2604.07279) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
