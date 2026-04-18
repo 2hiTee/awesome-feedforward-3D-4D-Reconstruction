@@ -141,6 +141,7 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 13 | **FrameVGGT: Frame Evidence Rolling Memory for Streaming VGGT** | [📄](https://arxiv.org/pdf/2603.07690) |
 | 14 | **Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training** | [📄](http://arxiv.org/abs/2604.07279) |
 | 15 | **Geometric Context Transformer for Streaming 3D Reconstruction** | [📄](https://arxiv.org/abs/2604.14141) |
+| 16 | **StreamCacheVGGT: Streaming visual geometry transformers with robust scoring and hybrid cache compression** | [📄](http://arxiv.org/abs/2604.15237) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
