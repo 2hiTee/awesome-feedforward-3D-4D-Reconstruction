@@ -84,6 +84,7 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 38 | **ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training** | [📄](http://arxiv.org/abs/2603.04385) |
 | 39 | **HD-VGGT: High-Resolution Visual Geometry Transformer** | [📄](http://arxiv.org/abs/2603.27222) |
 | 40 | **Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model** | [📄](https://arxiv.org/abs/2604.09480v1) |
+| 41 | **Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation** | [📄](https://arxiv.org/abs/2604.21713v1) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
