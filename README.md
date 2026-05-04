@@ -144,10 +144,12 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 14 | **XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression** | [📄](http://arxiv.org/abs/2602.21780) |
 | 15 | **LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory** | [📄](https://arxiv.org/pdf/2603.03269) |
 | 16 | **FrameVGGT: Frame Evidence Rolling Memory for Streaming VGGT** | [📄](https://arxiv.org/pdf/2603.07690) |
-| 17 | **PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences** | [📄](https://arxiv.org/abs/2603.21436v1) |
-| 18 | **Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training** | [📄](http://arxiv.org/abs/2604.07279) |
-| 19 | **Geometric Context Transformer for Streaming 3D Reconstruction** | [📄](https://arxiv.org/abs/2604.14141) |
-| 20 | **StreamCacheVGGT: Streaming visual geometry transformers with robust scoring and hybrid cache compression** | [📄](http://arxiv.org/abs/2604.15237) |
+| 17 | **MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction** | [📄](http://arxiv.org/abs/2603.15330) |
+| 18 | **RayMap3R: Inference-Time RayMap for Dynamic 3D Reconstruction** | [📄](https://arxiv.org/abs/2603.20588v1) |
+| 19 | **PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences** | [📄](https://arxiv.org/abs/2603.21436v1) |
+| 20 | **Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training** | [📄](http://arxiv.org/abs/2604.07279) |
+| 21 | **Geometric Context Transformer for Streaming 3D Reconstruction** | [📄](https://arxiv.org/abs/2604.14141) |
+| 22 | **StreamCacheVGGT: Streaming visual geometry transformers with robust scoring and hybrid cache compression** | [📄](http://arxiv.org/abs/2604.15237) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
