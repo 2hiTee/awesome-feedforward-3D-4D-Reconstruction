@@ -86,6 +86,7 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 40 | **Online3R: Online Learning for Consistent Sequential Reconstruction Based on Geometry Foundation Model** | [📄](https://arxiv.org/abs/2604.09480v1) |
 | 41 | **Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself** | [📄](https://arxiv.org/abs/2604.14048v1) |
 | 42 | **Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation** | [📄](https://arxiv.org/abs/2604.21713v1) |
+| 43 | **Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction** | [📄](https://arxiv.org/abs/2605.06270v1) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
@@ -150,6 +151,7 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 20 | **Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training** | [📄](http://arxiv.org/abs/2604.07279) |
 | 21 | **Geometric Context Transformer for Streaming 3D Reconstruction** | [📄](https://arxiv.org/abs/2604.14141) |
 | 22 | **StreamCacheVGGT: Streaming visual geometry transformers with robust scoring and hybrid cache compression** | [📄](http://arxiv.org/abs/2604.15237) |
+| 23 | **Ray-Aware Pointer Memory with Adaptive Updates for Streaming 3D Reconstruction** | [📄](http://arxiv.org/abs/2605.05749) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
