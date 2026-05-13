@@ -87,6 +87,8 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 41 | **Free Geometry: Refining 3D Reconstruction from Longer Versions of Itself** | [📄](https://arxiv.org/abs/2604.14048v1) |
 | 42 | **Unlocking the Power of Critical Factors for 3D Visual Geometry Estimation** | [📄](https://arxiv.org/abs/2604.21713v1) |
 | 43 | **Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction** | [📄](https://arxiv.org/abs/2605.06270v1) |
+| 44 | **PaceVGGT: Pre-Alternating-Attention Token Pruning for Visual Geometry Transformers** | [📄](http://arxiv.org/abs/2605.08371) |
+| 45 | **Lite3R: A Model-Agnostic Framework for Efficient Feed-Forward 3D Reconstruction** | [📄](http://arxiv.org/abs/2605.11354) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
@@ -115,9 +117,10 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 15 | **4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere** | [📄](http://arxiv.org/abs/2602.10094) |
 | 16 | **Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow** | [📄](https://arxiv.org/abs/2602.14021) |
 | 17 | **MoRe: Motion-Aware Feed-Forward 4D Reconstruction Transformer** | [📄](http://arxiv.org/abs/2603.05078) |
-| 17 | **DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving** | [📄](https://arxiv.org/pdf/2603.08254) |
-| 18 | **Complet4R: Geometric Complete 4D Reconstruction** | [📄](http://arxiv.org/abs/2603.27300) |
-| 19 | **Robust 4D Visual Geometry Transformer with Uncertainty-Aware Priors** | [📄](https://arxiv.org/abs/2604.09366v1) |
+| 18 | **DynamicVGGT: Learning Dynamic Point Maps for 4D Scene Reconstruction in Autonomous Driving** | [📄](https://arxiv.org/pdf/2603.08254) |
+| 19 | **Complet4R: Geometric Complete 4D Reconstruction** | [📄](http://arxiv.org/abs/2603.27300) |
+| 20 | **Robust 4D Visual Geometry Transformer with Uncertainty-Aware Priors** | [📄](https://arxiv.org/abs/2604.09366v1) |
+| 21 | **4DVGGT-D: 4D Visual Geometry Transformer with Improved Dynamic Depth Estimation** | [📄](http://arxiv.org/abs/2605.12027) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
@@ -152,6 +155,7 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 21 | **Geometric Context Transformer for Streaming 3D Reconstruction** | [📄](https://arxiv.org/abs/2604.14141) |
 | 22 | **StreamCacheVGGT: Streaming visual geometry transformers with robust scoring and hybrid cache compression** | [📄](http://arxiv.org/abs/2604.15237) |
 | 23 | **Ray-Aware Pointer Memory with Adaptive Updates for Streaming 3D Reconstruction** | [📄](http://arxiv.org/abs/2605.05749) |
+| 24 | **Attention Itself Could Retrieve. RetrieveVGGT: Training-Free Long Context Streaming 3D Reconstruction via Query-Key Similarity Retrieval** | [📄](http://arxiv.org/abs/2605.09644) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
