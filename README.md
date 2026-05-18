@@ -91,6 +91,7 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 45 | **Lite3R: A Model-Agnostic Framework for Efficient Feed-Forward 3D Reconstruction** | [📄](http://arxiv.org/abs/2605.11354) |
 | 46 | **TurboVGGT: Fast visual geometry reconstruction with adaptive alternating attention** | [📄](http://arxiv.org/abs/2605.14315) |
 | 47 | **VGGT-ω** | [📄](http://arxiv.org/abs/2605.15195) |
+| 48 | **Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer** | [📄](http://arxiv.org/abs/2605.15828) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
@@ -158,6 +159,7 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 22 | **StreamCacheVGGT: Streaming visual geometry transformers with robust scoring and hybrid cache compression** | [📄](http://arxiv.org/abs/2604.15237) |
 | 23 | **Ray-Aware Pointer Memory with Adaptive Updates for Streaming 3D Reconstruction** | [📄](http://arxiv.org/abs/2605.05749) |
 | 24 | **Attention Itself Could Retrieve. RetrieveVGGT: Training-Free Long Context Streaming 3D Reconstruction via Query-Key Similarity Retrieval** | [📄](http://arxiv.org/abs/2605.09644) |
+| 25 | **GHOST: Geometry-Hierarchical Online Streaming Token Eviction for Efficient 3D Reconstruction** | [📄](http://arxiv.org/abs/2605.15852) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
