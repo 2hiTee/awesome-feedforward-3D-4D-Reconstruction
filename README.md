@@ -89,6 +89,8 @@ A curated collection of cutting-edge research papers on **Feed-Forward 3D and 4D
 | 43 | **Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction** | [📄](https://arxiv.org/abs/2605.06270v1) |
 | 44 | **PaceVGGT: Pre-Alternating-Attention Token Pruning for Visual Geometry Transformers** | [📄](http://arxiv.org/abs/2605.08371) |
 | 45 | **Lite3R: A Model-Agnostic Framework for Efficient Feed-Forward 3D Reconstruction** | [📄](http://arxiv.org/abs/2605.11354) |
+| 46 | **TurboVGGT: Fast visual geometry reconstruction with adaptive alternating attention** | [📄](http://arxiv.org/abs/2605.14315) |
+| 47 | **VGGT-ω** | [📄](http://arxiv.org/abs/2605.15195) |
 
 <p align="right">(<a href="#-table-of-contents">⬆️ back to top</a>)</p>
 
